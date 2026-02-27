@@ -34,8 +34,8 @@ spring:
       client:
         registration:
           google:
-            client-id: YOUR_CLIENT_SECRET
-            client-secret: YOUR_CLIENT_ID
+            client-id: "YOUR_CLIENT_SECRET"
+            client-secret: "YOUR_CLIENT_ID"
             scope:
               - profile
               - email
